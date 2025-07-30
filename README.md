@@ -18,7 +18,7 @@ This template was created as part of my learning journey into GRC to help organi
 2. Do you require MFA for internal and customer-facing systems?  
 3. How often do you conduct vulnerability scans or penetration testing?  
 4. Are security logs retained and reviewed on a regular basis?  
-5. Who manages security operations — an internal team or a third-party MSSP?
+5. Who manages security operations, an internal team or a third-party MSSP?
 
 ---
 
